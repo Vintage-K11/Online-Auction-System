@@ -22,7 +22,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "",
+  "author": "Deepak,affan,anamika,vishal",
   "license": "ISC",
   "description": ""
 }
